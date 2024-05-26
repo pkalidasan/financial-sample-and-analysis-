@@ -90,7 +90,7 @@ Explore the Report: Navigate through the visuals, interact with buttons and deri
 ## Overview
 
 This powerbi project is created to show the analysis of sales, profit, and revenue data segmented by country, product, and segment. The dashboard includes various interactive elements such as filters for Year, Month Name, Month Number, and Country.
-Key Metrics showed
+Key points showed
 
 Total Sale: ₹ 118.73M
 
