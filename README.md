@@ -1,4 +1,5 @@
 # financial-sample-and-analysis-
+
 This Repository is created to show the data Analysis of financial dataset
 
 ## Power BI Data Analysis Project
@@ -82,7 +83,8 @@ Access to the dataset (Google Sheets link provided).
 Steps to Use
 
 Open Power BI Desktop: Launch the application on your computer.
-Import the PBIX File: Open the Power BI report file (.pbix) from the cloned repository.
+Import the PBIX File: Open the Power BI report file (https://drive.google.com/file/d/1XTJamp-tlPSsi4Xt4bVmRZRFPoNJBOBg/view?usp=drive_link)
+
 Update Data Source: Ensure the data source is correctly connected and up to date.
 Explore the Report: Navigate through the visuals, interact with buttons and derive insights.
 
