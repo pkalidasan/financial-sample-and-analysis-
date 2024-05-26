@@ -60,8 +60,10 @@ Titling
 Each page and visuals are titled clearly to display  the content  and its  purpose.
 
 proper Colors
+
 A color is very important because proper color is very necessary. The color scheme is used throughout the report to maintain visual harmony and improve readability.
 Thoughtful Formatting
+
 Proper alignment, spacing, and formatting techniques are applied to ensure the report is aesthetically pleasing and easy to read.
 
 Insights and Analysis
@@ -71,13 +73,13 @@ Depth of Insights
 The analysis delves into key trends and patterns within the data, providing meaningful interpretations and actionable insights.
 
 ## Steps to Instructions
+
 Power BI Desktop installed on your computer.
 
 Access to the dataset (Google Sheets link provided).
 
 Steps to Use
 
-Clone the Repository: git clone https://github.com/yourusername/your-repo-name.git
 Open Power BI Desktop: Launch the application on your computer.
 Import the PBIX File: Open the Power BI report file (.pbix) from the cloned repository.
 Update Data Source: Ensure the data source is correctly connected and up to date.
@@ -153,13 +155,13 @@ Interactive Elements
 
 Filters: The dashboard includes filters for Year, Month Name, Month Number, and Country, allowing users to customize the data view according to their needs. This interactive feature enhances the user experience by providing the flexibility to focus on specific time periods or geographic areas.
 
-Buttons and Bookmarks: Likely included to navigate between different report pages or to reset filters, improving report usability.
+Buttons: Likely included to navigate between different report pages or to reset filters, improving report usability.
 
-Images: The inclusion of a relevant image (e.g., a logo or icon) adds a professional touch to the dashboard and aligns with corporate branding.
+Images: The inclusion of a relevant image (logo) adds a professional touch to the dashboard and aligns with corporate branding.
 
 Organization and Formatting
 
-The dashboard employs a consistent color scheme of blue, which enhances visual appeal and readability.
+The dashboard employs a consistent color scheme of blue, which enhances visual appeal and more experiences.
 Clear titles and labels for each visual ensure that users can quickly understand the content and insights being presented.
 Proper alignment and spacing contribute to a clean and organized layout, making the dashboard easy to navigate.
 
