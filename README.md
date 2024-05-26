@@ -100,7 +100,7 @@ Net Profit: ₹ 16.89M
 
 Revenue: ₹ 127.93M
 
-These key metrics provide a quick snapshot of the overall financial performance.
+These key points provide a quick snapshot of the overall financial performance.
 
 Visuals and Insights
 
