@@ -11,10 +11,15 @@ This project contents various steps to analysis the dataset, this includes:
 
 ## Contents 
 Dataset Importing and Preprocessing
+
  Providing Visualizations
+ 
  Making Interactive Elements
+ 
 Report Organization
+
 Insights and Analysis
+
 Usage Instructions
 
 ## Dataset Importing and Preprocessing
