@@ -35,8 +35,11 @@ Data Transformation: Convert data  by using the transform data there we can arra
 Data Validation: Check for data consistency and ensure that all relevant fields are preprocessed for the analysis.
 
 ## Visualizations
+
 The project contains various types of visualization.
- This report includes a minimum of seven visuals to effectively convey insights:
+
+ This report includes  seven and more  visuals to effectively convey insights:
+ 
 Bar Chart: To show categorical data distribution.
 
 Line Chart: To illustrate trends over time.
